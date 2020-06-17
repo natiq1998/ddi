@@ -1,3 +1,5 @@
+#Yapılacaklar
+
 # Doğal Dil işleme Projesi
 Test.py dosyası çalıştırıldığında metnin kökünü bulma, yanlış yazılan kelimenin en olası doğrusunu bulma ve yanlış kelimenin olası doğru varyasyonlarını bulma işlemi yapılıyor.
 
